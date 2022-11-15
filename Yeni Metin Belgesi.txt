@@ -5,8 +5,8 @@ sıradaki hatanın ismini kodumuzda tutacağız
 sıradaki hasta bu;
 */
 
-      var danisan = prompt("İsminizi allaım");
-      var sonrakiDanisan = "Aysa";
+      var danisan = prompt("İsminizi Alalım");
+      var sonrakiDanisan = "Ayşe";
 
       alert(
         "İçerideki danisan: " +
