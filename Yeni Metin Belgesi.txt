@@ -1,0 +1,16 @@
+/* 
+soru: hastanın ismini alacağız.
+sonra içerdeki hasta şu, 
+sıradaki hatanın ismini kodumuzda tutacağız
+sıradaki hasta bu;
+*/
+
+      var danisan = prompt("İsminizi allaım");
+      var sonrakiDanisan = "Aysa";
+
+      alert(
+        "İçerideki danisan: " +
+          danisan +
+          " Bir sonraki danisan " +
+          sonrakiDanisan
+      );
