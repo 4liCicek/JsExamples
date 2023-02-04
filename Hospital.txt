@@ -1,9 +1,9 @@
-/* 
+/**** 
 soru: hastanın ismini alacağız.
 sonra içerdeki hasta şu, 
 sıradaki hatanın ismini kodumuzda tutacağız
 sıradaki hasta bu;
-*/
+*****/
 
       var danisan = prompt("İsminizi Alalım");
       var sonrakiDanisan = "Ayşe";
