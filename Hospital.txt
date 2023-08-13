@@ -7,7 +7,6 @@ sıradaki hasta bu;
 
       var danisan = prompt("İsminizi Alalım");
       var sonrakiDanisan = "Ayşe";
-
       alert(
         "İçerideki danisan: " +
           danisan +
